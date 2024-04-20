@@ -37,7 +37,7 @@ The primary deliverable for this project will be the sales forecast for the list
 
 # Project Details
 
-The project will be undertaken by Team Next Capstone and is scheduled for completion by April 17, 2024. The project milestones are outlined as follows:
+The project will be undertaken by Team Swire-innovators and is scheduled for completion by April 17, 2024. The project milestones are outlined as follows:
 
   1. Business Problem Statement: Defining the business problem statement will be achieved by February 5, 2024.
   2. Exploratory Data Analysis and Visualizations – Visualizing the data using exploratory data analysis will be accomplished by February 25, 2024.
