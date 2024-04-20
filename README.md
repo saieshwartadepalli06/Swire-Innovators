@@ -8,7 +8,9 @@ Swire Coca-Cola, USA is responsible for the production, sale, and distribution o
 # Benefit of Solution
 
 • Forecasting the demand for each innovative product listed so that this guarantees efficient resource utilization.
+
 • Generating the forecast for a designated location within a specified time period.
+
 • Identifying ideal locations and demographics for the specified products. 
 
 This solution empowers Swire Coca-Cola to make informed and datadriven decisions regarding the launch of new products.
