@@ -1,5 +1,8 @@
 # Swire-Innovators
+
 Group Project for MSBA Capstone - Sai Eshwar Tadepalli, Abhiram Mannam, Kushal Ram Tayi
+
+![image](https://github.com/saieshwartadepalli06/Swire-Innovators/assets/157938770/e47320fb-ed75-4abd-aa3e-66b793926284)
 
 # Business Problem Statement
 
@@ -44,3 +47,13 @@ The project will be undertaken by Team Swire-innovators and is scheduled for com
   3. Modelling Analysis – Modelling the data using the machine learning models will be completed by March 24, 2024.
   4. Final presentation – Presenting the final deliverables to the Swire Coca-Cola team panel is scheduled for April 11, 2024.
   5. GitHub portfolio – Creating and publishing the GitHub portfolio for the project by April 17, 2024.
+
+# Media Links 
+
+**Substack**: https://saieshwartadepalli.substack.com/p/innovating-beverage-demand-forecasting
+**Medium**: https://medium.com/@satadepalli168/innovating-beverage-demand-forecasting-my-capstone-journey-with-swire-coca-cola-fab5cab18858
+**Youtube**: https://www.youtube.com/watch?v=O_HGF95dQYM&t=506s
+**Website**: https://swirewebsite-kxgpyieata-wm.a.run.app/
+**LinkedIN**: https://www.linkedin.com/feed/update/urn:li:activity:7187254950366740481/
+
+![image](https://github.com/saieshwartadepalli06/Swire-Innovators/assets/157938770/b4e70315-9def-440d-8482-3e45b1c5c4f4)
