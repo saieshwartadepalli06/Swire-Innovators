@@ -50,10 +50,10 @@ The project will be undertaken by Team Swire-innovators and is scheduled for com
 
 # Media Links 
 
-**Substack**: https://saieshwartadepalli.substack.com/p/innovating-beverage-demand-forecasting
-**Medium**: https://medium.com/@satadepalli168/innovating-beverage-demand-forecasting-my-capstone-journey-with-swire-coca-cola-fab5cab18858
-**Youtube**: https://www.youtube.com/watch?v=O_HGF95dQYM&t=506s
-**Website**: https://swirewebsite-kxgpyieata-wm.a.run.app/
-**LinkedIN**: https://www.linkedin.com/feed/update/urn:li:activity:7187254950366740481/
+**Substack**: https://saieshwartadepalli.substack.com/p/innovating-beverage-demand-forecasting<br>
+**Medium**: https://medium.com/@satadepalli168/innovating-beverage-demand-forecasting-my-capstone-journey-with-swire-coca-cola-fab5cab18858<br>
+**Youtube**: https://www.youtube.com/watch?v=O_HGF95dQYM&t=506s<br>
+**Website**: https://swirewebsite-kxgpyieata-wm.a.run.app/<br>
+**LinkedIN**: https://www.linkedin.com/feed/update/urn:li:activity:7187254950366740481/<br>
 
 ![image](https://github.com/saieshwartadepalli06/Swire-Innovators/assets/157938770/b4e70315-9def-440d-8482-3e45b1c5c4f4)
